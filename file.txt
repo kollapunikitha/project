@@ -1,2 +1,1 @@
-Hello, this is my first Git practical.
-This is my second modification.
+Hello DevOps
